@@ -1,0 +1,49 @@
+.feedback{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-self: center;
+    height: auto;
+    min-height: 80vh;
+    justify-content: center;
+    margin: 5px;
+    border: 1pt solid black;
+}
+
+.field {
+    position: relative;
+    padding-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+.list-review{
+    text-align: center;
+    list-style-type: none; 
+}
+
+.review-form{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.comments{
+    background-color: aliceblue;
+}
+
+fieldset {
+    margin-top: 10px;
+    display: flex;
+    width: 480px;
+    padding: 16px;
+    border-radius: 4px;
+    flex-direction: column;
+    align-content: center;
+}
+
+label {
+margin-bottom: 8px;
+font-size: 14px;
+}
+

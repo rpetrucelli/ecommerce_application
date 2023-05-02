@@ -1,0 +1,22 @@
+.footer{
+    margin: 5px;
+    border: 1pt solid black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 5px;
+    align-self: baseline;
+    height: 10%;
+    border-radius: 5px;
+
+}
+
+.footer-links{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0 5px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}

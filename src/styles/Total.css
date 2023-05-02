@@ -1,0 +1,8 @@
+.total{
+    display: flex;
+    flex-direction: column;
+}
+
+.price{
+    margin: 10px;
+}

@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5px;
+    border: 1pt solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.nav-item, .cart, .login-btn, .cart-btn{
+    text-decoration: none;
+    margin: 0 2px;
+}
+
+.nav-item{
+    float: left;
+}
+

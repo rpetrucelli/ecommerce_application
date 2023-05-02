@@ -1,0 +1,49 @@
+.homepage{
+    margin: 5px;
+    border: 1pt solid black;
+    display: flex;
+    min-height: 10vh;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.home-content{
+    margin: 5px;
+    border: 1pt solid black;
+    display: flex;
+    border-radius: 5px;
+    min-height: 80vh;
+    background-image: url("../../public/subway-logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    justify-content: space-between;
+}
+
+.logo{
+    height: auto;
+    width: 30%;
+    padding: 5%;
+    margin-bottom: 5%;
+}
+
+.map{
+    height: 50vh;
+    width: 25vw;
+    border: 2px solid black;
+    border-radius: 5px;
+    align-self: center;
+    margin: 50px;
+}
+
+.promos{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 50vh;
+    width: 25vw;
+    align-self: center;
+    margin: 50px;
+    text-align: center;
+    
+}
